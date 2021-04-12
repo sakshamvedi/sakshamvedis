@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sahirskd
+- 👋 Hi, I’m Sahir khan
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning react.js and node.js
 - 💞️ I’m looking to collaborate on LinkedIn
