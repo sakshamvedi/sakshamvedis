@@ -50,7 +50,7 @@
 
 <p>
 <!-- <a href="https://www.vivek9patel.com"><img src="https://img.shields.io/badge/-adityavsingh.com-3423A6?style=for-the-badge&logo=Google-Chrome&logoColor=white"/></a> -->
-<a href="https://www.linkedin.com/in/sahir-khan-8b38aa193/"><img src="https://img.shields.io/badge/-vivek9patel-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:sahirskd@gmail.com"><img src="https://img.shields.io/badge/-vivek.p9737@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/sahir-khan-8b38aa193/"><img src="https://img.shields.io/badge/-Sahir%20khan-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:sahirskd@gmail.com"><img src="https://img.shields.io/badge/-sahirskd@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://wa.me/+919318374921"><img src="https://img.shields.io/badge/-Whatsapp-Whatsapp?style=for-the-badge&logo=WhatsApp&logoColor=white"/></a>
 </p>
