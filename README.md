@@ -57,4 +57,5 @@
 <a href="mailto:sahirskd@gmail.com"><img src="https://img.shields.io/badge/-sahirskd@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://wa.me/+919318374921"><img src="https://img.shields.io/badge/-Whatsapp-Whatsapp?style=for-the-badge&logo=WhatsApp&logoColor=white&style=flat"/></a>
 </p>
-<img src="https://github.com/rebelchris/rebelchris/blob/master/devcard.svg" width="400" alt="Chris Bongers's Dev Card"/>
+<img src="https://github.com/sahirskd/sahirskd/blob/main/devcard.svg" width="400" alt="Sahir khan"/>
+
