@@ -58,4 +58,4 @@
 <a href="https://wa.me/+919318374921"><img src="https://img.shields.io/badge/-Whatsapp-Whatsapp?style=for-the-badge&logo=WhatsApp&logoColor=white&style=flat"/></a>
 </p>
 
-<img src="https://github.com/sahirskd/sahirskd/blob/main/devcard.svg" width="400" alt="Sahir khan"/>
+<img src="https://github.com/sahirskd/sahirskd/blob/main/devcard.svg" width="300" alt="Sahir khan"/>
