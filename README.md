@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sahir khan</h1>
+<h1 align="center">Hi 👋, I'm Saksham vedi </h1>
 <h3 align="center">A passionate Web Developer from India</h3>
 	
 <p align="center">
@@ -6,13 +6,13 @@
 </p>
 
 
-- 🌱 I’m currently learning about **Mobile Apps Development**
+- 🌱 I’m currently learning about **BlockChain**
 
-- 👨‍💻 All of my projects are available [here](https://github.com/sahirskd?tab=repositories)
+- 👨‍💻 
 
 - 💬 Ready to help in **Javascript**, **React.js** & **CSS**
 
-- 📫 Mail me at **sahirskd@gmail.com**
+- 📫 Mail me at **sakshamvedi@gmail.com**
 
 	
 ### 🛠 &nbsp;Languages and Tools
